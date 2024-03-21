@@ -1,0 +1,33 @@
+{
+  "SETTINGS": {
+    "ACCOUNT": {
+      "MY_PROFILE": "Mi perfil",
+      "PROFILE": {
+        "KEYWORDS": "Perfil de Usuario Personal"
+      },
+      "DANGER_ZONE": {
+        "TITLE": "Zona de Peligro"
+      },
+      "SYNCING": {
+        "TITLE": "Sincronizando"
+      },
+      "VERSION": {
+        "TITLE": "Versión de Aplicación",
+        "KEYWORDS": "versión"
+      },
+      "SUPPORT": {
+        "TITLE": "Soporte\n"
+      },
+      "PRIVACY": {
+        "TITLE": "Privacidad"
+      }
+    },
+    "FLASHCARDS": {
+      "AI": {
+        "ENABLE": {
+          "TITLE": "Habilitar Recursos de IA"
+        }
+      }
+    }
+  }
+}
